@@ -1,0 +1,38 @@
+{
+    "algo": "cryptonight",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "av": 0,
+    "background": true,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": 4,
+    "donate-level": 1,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": "logs.txt",
+    "max-cpu-usage": 70,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:5555",
+            "user": "49xeHWY9VDeQLu7Hc4aWP5HhkRkAWdK7iRKhwU46yLbsjBNaf2tsuZ6P5Dcs1JSqq9jeHmoGvgbFB3RvQmdWZ39KTbAirmG",
+            "pass": "Corky:corkyslurp@gmail.com",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": null
+}
